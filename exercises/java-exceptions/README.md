@@ -24,6 +24,8 @@ try {
 }
 ```
 
+es, this code is legal. You can have a try block followed by a finally block without a catch block.
+
 ### <ins>Question 2</ins>
 
 What exception types can be caught by the following handler?
