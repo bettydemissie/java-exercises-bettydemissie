@@ -4,6 +4,7 @@ public class Paint {
 
     private double coverage;
 
+
     public Paint(){
         this.coverage = 3.0;
     }
@@ -16,4 +17,5 @@ public class Paint {
 
 
     
+
 }
